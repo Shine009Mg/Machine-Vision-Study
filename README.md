@@ -5,4 +5,4 @@ The program will identify whether red color is detected in region of interest or
 ## Project 2 - Object Counting
 The program will classify the objects depend on shape and will show the result of each objects.
 ## Project 3 - Template Matching
-The program will check using Template Matching Opencv method.
+The program will check the object in real time using Template Matching OpenCv method.
